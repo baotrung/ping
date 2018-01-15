@@ -1,0 +1,22 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "description": "mini ws with customizable host and port",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baotrung/ping.git"
+  },
+  "author": "elguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baotrung/ping/issues"
+  },
+  "homepage": "https://github.com/baotrung/ping#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
